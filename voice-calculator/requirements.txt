@@ -1,0 +1,7 @@
+﻿SpeechRecognition
+pyttsx3
+pyaudio
+sympy
+numpy
+matplotlib
+langdetect
