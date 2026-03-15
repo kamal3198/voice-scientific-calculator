@@ -1,6 +1,6 @@
 ﻿SpeechRecognition
 pyttsx3
-pyaudio
+pyaudio==0.2.14
 sympy
 numpy
 matplotlib
